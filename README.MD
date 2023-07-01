@@ -1,6 +1,6 @@
 # <Name_of_the_game_will_be_in_future>
 
-You have been spawned in Medieval dungeon your task is to gather resources weapen and spells to get as much as possible resources and conquer the dragon 
+You have been spawned in Medieval dungeon your task is to gather resources weapon and spells to get as much as possible resources and conquer the dragon 
 
 ## Game overview
 - maximum 5 players
