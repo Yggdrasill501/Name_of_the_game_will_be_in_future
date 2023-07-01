@@ -2,7 +2,6 @@
 """Run whole project form here"""
 import pygame
 from sys import exit
-#from random import randint, choice
 
 game_active: bool = True
 
