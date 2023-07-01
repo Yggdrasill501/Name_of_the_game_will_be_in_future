@@ -1,2 +1,4 @@
 pygame
 pytest
+numpy
+xarray
