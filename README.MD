@@ -1,17 +1,15 @@
 # <Name_of_the_game_will_be_in_future>
 
-You have been spawned in Medieval dungeon your task is to gather resources weapon and spells to get as much as possible resources and conquer the dragon 
+
 
 ## Game overview
-- maximum 5 players
-- 6 heroes to chose from
-- 2 dices
-- n monsters
-- n treasures
-- n rooms
-- n hallways
-
+-
 ## Game Logic
+- Asymptotic classes
+- Trading between players
+- Secret "German Dictator" logic
+- Random map generation, Random Spawn
+- Kombat power random
 
 
 ###### pygame lib
